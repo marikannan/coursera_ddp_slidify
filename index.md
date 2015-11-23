@@ -2,8 +2,8 @@
 title       : India  Rainfall  Trend
 subtitle    : Reproducible rainfall trend based on 1901-2013 statistics
 author      : Marikannan
-job         : 
-framework   : html5slides        # {io2012, html5slides, shower, dzslides, ...}
+job         : Software Developer
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []           # {mathjax, quiz, bootstrap}
